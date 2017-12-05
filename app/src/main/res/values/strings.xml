@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Brastlewark</string>
+    <string name="user_name">Username</string>
+    <string name="filters">Filters</string>
+    <string name="friends_label">Friends:</string>
+    <string name="professions_label">Professions:</string>
+    <string name="search">Search</string>
+    <string name="apply">Apply filters</string>
+    <string name="min_age_label">Minimum age:</string>
+    <string name="max_age_label">Maximum age:</string>
+    <string name="hair_color_label">Hair color:</string>
+    <string name="selected">Selected</string>
+</resources>
